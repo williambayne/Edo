@@ -1,0 +1,4 @@
+SSL Certificate will utilize *** for easy of use. Any other SSL can be used, however.
+
+#Note: If you started with a Lightsail website and/or are using a different operating system (Switching from Amazon Linux II to Dameon) you may have trouble logging in
+via AWS browser. You will need to login through SSH (Putty). It is better to simply start with an EC2 Micro instance, and upgrade as necessary.
