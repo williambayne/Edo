@@ -1,0 +1,3 @@
+Here we will setup FFMPEG on the server so that we can automatically encode our videos after they are uploaded.
+
+#Login to your server through SSH and input your credentials. (If you have AWS browser access, that will work too.)
