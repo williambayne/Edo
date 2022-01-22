@@ -1,4 +1,4 @@
-# Edo
+# Edo Work in Progress
 Video Hosting Website built on AWS EC2 and Wordpress
 
 Edo is a codename for a video hosting website I built for my non-profit foundation as an alternative to existing hosting sites with excessive and non-skippable advertisments.
